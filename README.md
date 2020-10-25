@@ -1,4 +1,4 @@
-
+![](https://github.com/wagnerdevocelot/wagnerdevocelot/blob/main/images/madwaifu.png)
 
 <!--
 **wagnerdevocelot/wagnerdevocelot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,3 @@
-# Hey there, I'm Wagner Abrantes! 👋
-
 ## 🚀 About Me
 
 - 🔧 Software Engineer currently working at [iugu](https://iugu.com)

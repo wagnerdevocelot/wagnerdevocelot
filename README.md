@@ -27,8 +27,8 @@
 - Currently reading:
   - *Near to the Wild Heart* by Clarice Lispector
   - *Beyond Good and Evil* by Friedrich Nietzsche
-  - *Software Architecture: The Hard Parts* By Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani
-  - *Learning Functional Programming* By Jack Widman
+  - *Software Architecture: The Hard Parts* by Neal Ford, Mark Richards, Pramod Sadalage, and Zhamak Dehghani
+  - *Learning Functional Programming* by Jack Widman
 - Proud plant dad 🌿
 - I skate when I get the chance 🛹
 - I haven’t played in a while, but I’m always down for a Pokémon TCG match 🔥
